@@ -16,6 +16,15 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * [POPSLoader 1.0.0 r13 exFAT Support](https://github.com/israpps/BDMAssault)
     
 ## - Config
+
+  * POPStarter CHEATS.TXT
+    * $SAFEMODE
+    * $HDTVFIX
+    * $SMOOTH
+    * $IGR2
+ 
+  * POPStarter VMCDIR.TXT
+    * Use VMC SLOT0.VMC and SLOT1.VMC for all games in folder mass0:POPS/VMC/
    
 ## - Installation
 
