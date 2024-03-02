@@ -7,6 +7,8 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 > Open PS2 Loader 1.2.0 Bêta 2070 234a36
     
 ## - Add-on
+
+  * [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer)
     
 ## - Config
    
