@@ -32,5 +32,5 @@ Just copy and paste in your mc0 and mass0 after fresh install of [PS2BBL OpenTun
 
 ## - Additional Infos
 
-  * Tested on PS2 FAT SCPH-3004 R
+  * Tested on PS2 FAT SCPH-3004 R wiht FreeDVDBoot
   * Tested on 128MB Memory Card No MagicGate
