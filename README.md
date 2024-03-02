@@ -9,6 +9,8 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 ## - Add-on
 
   * [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer)
+  * [POPS](https://github.com/AnimMouse/POPS-binaries)
+  * [POPStarter r13](https://www.psx-place.com/threads/popstarter.19139/)
   * [POPSLoader 1.0.0 r13](https://www.psx-place.com/threads/popsloader.42474/)
     
 ## - Config
