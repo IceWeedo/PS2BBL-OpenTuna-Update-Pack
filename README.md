@@ -18,6 +18,10 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
     
 ## - Config
 
+<p align="center">
+**POPStarter
+</p>
+
   * POPStarter **CHEATS.TXT**
     * $SAFEMODE
     * $HDTVFIX
