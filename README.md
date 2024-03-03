@@ -35,5 +35,5 @@ Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of 
 
 ## - Additional Infos
 
-  * Tested on PS2 FAT SCPH-3004 R wiht FreeDVDBoot
+  * Tested on PS2 FAT SCPH-3004 R wiht [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
   * Tested on 128MB Memory Card No MagicGate
