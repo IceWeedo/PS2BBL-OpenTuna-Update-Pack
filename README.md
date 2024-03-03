@@ -18,7 +18,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
     
 ## - Config
 
-### __POPStarter__
+### POPStarter
 
   * **CHEATS.TXT**
     * $SAFEMODE
