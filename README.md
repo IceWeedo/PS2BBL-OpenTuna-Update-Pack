@@ -20,13 +20,13 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 
 ### POPStarter
 
-  * POPStarter **CHEATS.TXT**
+  * **CHEATS.TXT**
     * $SAFEMODE
     * $HDTVFIX
     * $SMOOTH
     * $IGR2
  
-  * POPStarter **VMCDIR.TXT**
+  * **VMCDIR.TXT**
     * Use VMC **SLOT0.VMC** and **SLOT1.VMC** for all games in folder **"mass0:/POPS/VMC/"**
    
 ## - Installation
