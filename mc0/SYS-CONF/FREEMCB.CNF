@@ -85,14 +85,14 @@ path1_OSDSYS_ITEM_5 = mass:/BOOT/SMS.ELF
 path2_OSDSYS_ITEM_5 = mc?:/BOOT/SMS.ELF
 path3_OSDSYS_ITEM_5 = mc?:/B?DATA-SYSTEM/SMS.ELF
 
-name_OSDSYS_ITEM_6 = Launch disc
-path1_OSDSYS_ITEM_6 = FASTBOOT
+name_OSDSYS_ITEM_6 = Memory Card Annihilator
+path1_OSDSYS_ITEM_6 = mc0:/APPS/MCA.ELF
 
-name_OSDSYS_ITEM_7 = Memory Card Annihilator
-path1_OSDSYS_ITEM_7 = mc0:/APPS/MCA.ELF
+name_OSDSYS_ITEM_7 = BiosDrain
+path1_OSDSYS_ITEM_7 = mc0:/APPS/BIOSDRAIN.ELF
 
-name_OSDSYS_ITEM_8 = BiosDrain
-path1_OSDSYS_ITEM_8 = mc0:/APPS/BIOSDRAIN.ELF
+name_OSDSYS_ITEM_97 = Launch disc
+path1_OSDSYS_ITEM_97 = FASTBOOT
 
 name_OSDSYS_ITEM_98 = Free MCBoot Configurator
 path1_OSDSYS_ITEM_98 = mc?:/SYS-CONF/FMCB_CFG.ELF
