@@ -89,6 +89,9 @@ path1_OSDSYS_ITEM_6 = mc0:/APPS/MCA.ELF
 name_OSDSYS_ITEM_7 = BiosDrain
 path1_OSDSYS_ITEM_7 = mc0:/APPS/BIOSDRAIN.ELF
 
+name_OSDSYS_ITEM_7 = KELFBinder
+path1_OSDSYS_ITEM_7 = mass:/APPS/KELFBinder/KELFBinder.elf
+
 name_OSDSYS_ITEM_97 = Launch disc
 path1_OSDSYS_ITEM_97 = FASTBOOT
 
