@@ -8,7 +8,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
     
 ## - Add-on
 
-  * [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer) **+** [exFAT Support](https://github.com/israpps/BDMAssault)
+  * [FreeMCBoot 1.966 exFAT](https://github.com/israpps/FreeMcBoot-Installer)
   * [wLaunchELF 4.43.x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
   * [POPS](https://github.com/AnimMouse/POPS-binaries)
   * [POPStarter r13](https://www.psx-place.com/threads/popstarter.19139/) **+** [exFAT Support](https://github.com/israpps/BDMAssault)
