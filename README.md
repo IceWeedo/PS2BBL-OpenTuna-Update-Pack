@@ -4,7 +4,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 
 ## - Update
 
-  * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 **>** [Open PS2 Loader 1.2.0 Bêta 2070 234a36](https://github.com/ps2homebrew/Open-PS2-Loader)
+  * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 **>** [Open PS2 Loader 1.2.0 Beta 2119 d47912c](https://github.com/ps2homebrew/Open-PS2-Loader)
     
 ## - Add-on
 
