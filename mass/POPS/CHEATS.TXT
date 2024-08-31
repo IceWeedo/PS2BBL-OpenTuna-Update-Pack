@@ -1,7 +1,0 @@
-$SAFEMODE
-
-$HDTVFIX
-
-$SMOOTH
-
-$IGR2
