@@ -4,12 +4,13 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 
 # Infos
 
-  * Tested on PS2 FAT SCPH-30004 R with [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
+  * Tested on PS2 FAT with [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
     * Console: SCPH-30004 R
     * Browser: 1.20
     * CD Player: 1.20
     * PlayStation Driver: 1.10
     * DVD Player: 2.10E
+
   * Tested on 128MB Memory Card No MagicGate
 
 # Content
