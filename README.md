@@ -2,6 +2,11 @@
 
 Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israpps/PlayStation2-Basic-BootLoader)
 
+## - Additional Infos
+
+  * Tested on PS2 FAT SCPH-3004 R with [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
+  * Tested on 128MB Memory Card No MagicGate
+
 ## - Update
 
   * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 **>** [Open PS2 Loader 1.2.0 Beta 2119 d47912c](https://github.com/ps2homebrew/Open-PS2-Loader)
@@ -34,8 +39,3 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 ## - Install
 
 Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israpps/PlayStation2-Basic-BootLoader)
-
-## - Additional Infos
-
-  * Tested on PS2 FAT SCPH-3004 R with [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
-  * Tested on 128MB Memory Card No MagicGate
