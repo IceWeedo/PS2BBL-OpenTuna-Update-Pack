@@ -13,12 +13,6 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 
   * Tested on 128MB Memory Card No MagicGate
 
-
-
-
-
-
-
 # Content
 
 ## - Update
