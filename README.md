@@ -22,7 +22,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 ## - Add-on
 
   * [FreeMCBoot 1.966 ISR exFAT](https://github.com/israpps/FreeMcBoot-Installer)
-  * [wLaunchELF 4.43.x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
+  * [wLaunchELF 4.43x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
   * [POPS](https://github.com/AnimMouse/POPS-binaries)
   * [POPStarter r13](https://www.psx-place.com/threads/popstarter.19139/) **+** [exFAT Support](https://github.com/israpps/BDMAssault)
   * [POPSLoader 1.0.0 r13](https://www.psx-place.com/threads/popsloader.42474/)
@@ -30,6 +30,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * [Memory Card Annihilator 2.0a - Multilingual](https://www.psx-place.com/threads/memory-card-annihilator-v2-0a-a-new-version-after-more-than-11-years.36277/)
   * [BiosDrain 2.1.1](https://github.com/F0bes/biosdrain)
   * [KELFBinder 1.1.1](https://github.com/israpps/KELFBinder)
+  * [ESR r10f](https://www.psx-place.com/resources/esr.951/update?update=1613)
     
 ## - Config
 
