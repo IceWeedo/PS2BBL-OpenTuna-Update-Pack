@@ -95,8 +95,8 @@ name_OSDSYS_ITEM_8 = BiosDrain
 path1_OSDSYS_ITEM_8 = mc?:/APPS/BIOSDRAIN.ELF
 
 
-name_OSDSYS_ITEM_9 = KELFBinder
-path1_OSDSYS_ITEM_9 = mass:/APPS/KELFBinder/KELFBinder.elf
+name_OSDSYS_ITEM_94 = KELFBinder
+path1_OSDSYS_ITEM_94 = mass:/APPS/KELFBinder/KELFBinder.elf
 
 
 name_OSDSYS_ITEM_95 = ESR DVD Direct
