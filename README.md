@@ -30,7 +30,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * [Memory Card Annihilator 2.0a - Multilingual](https://www.psx-place.com/threads/memory-card-annihilator-v2-0a-a-new-version-after-more-than-11-years.36277/)
   * [BiosDrain 2.1.1](https://github.com/F0bes/biosdrain)
   * [KELFBinder 1.1.1](https://github.com/israpps/KELFBinder)
-  * [ESR r9b](https://www.psx-place.com/threads/esr-by-ffgriever.19136/)
+  * [ESR Beta r9b](https://www.psx-place.com/threads/esr-by-ffgriever.19136/)
     
 ## - Config
 
