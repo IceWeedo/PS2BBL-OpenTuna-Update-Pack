@@ -48,3 +48,10 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 # Install
 
 Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israpps/PlayStation2-Basic-BootLoader)
+
+# Add Games
+
+## PlayStation
+
+
+## PlayStation 2
