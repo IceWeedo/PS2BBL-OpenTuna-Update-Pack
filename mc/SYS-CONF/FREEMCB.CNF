@@ -71,28 +71,25 @@ name_OSDSYS_ITEM_2 = wLaunchELF ISR HDD
 path1_OSDSYS_ITEM_2 = mc?:/BOOT/ULE_ISR_HDD.ELF
 
 
-name_OSDSYS_ITEM_3 = Open PS2 Loader USB
-path1_OSDSYS_ITEM_3 = mc?:/APPS/OPNPS2LD_USB.ELF
+name_OSDSYS_ITEM_3 = Open PS2 Loader
+path1_OSDSYS_ITEM_3 = mc?:/APPS/OPNPS2LD.ELF
 
 
-name_OSDSYS_ITEM_4 = Open PS2 Loader HDD
-path1_OSDSYS_ITEM_4 = mc?:/APPS/OPNPS2LD_HDD.ELF
+
+name_OSDSYS_ITEM_4 = POPSLoader
+path1_OSDSYS_ITEM_4 = mc0:/APPS/POPSLOADER.ELF
 
 
-name_OSDSYS_ITEM_5 = POPSLoader
-path1_OSDSYS_ITEM_5 = mc0:/APPS/POPSLOADER.ELF
+name_OSDSYS_ITEM_5 = Simple Media System
+path1_OSDSYS_ITEM_5 = mc?:/APPS/SMS/SMS.ELF
 
 
-name_OSDSYS_ITEM_6 = Simple Media System
-path1_OSDSYS_ITEM_6 = mc?:/APPS/SMS/SMS.ELF
+name_OSDSYS_ITEM_6 = Memory Card Annihilator
+path1_OSDSYS_ITEM_6 = mc?:/APPS/MCA/MCA.ELF
 
 
-name_OSDSYS_ITEM_7 = Memory Card Annihilator
-path1_OSDSYS_ITEM_7 = mc?:/APPS/MCA/MCA.ELF
-
-
-name_OSDSYS_ITEM_8 = BiosDrain
-path1_OSDSYS_ITEM_8 = mc0:/APPS/BIOSDRAIN.ELF
+name_OSDSYS_ITEM_7 = BiosDrain
+path1_OSDSYS_ITEM_7 = mc0:/APPS/BIOSDRAIN.ELF
 
 
 name_OSDSYS_ITEM_93 = KELFBinder
