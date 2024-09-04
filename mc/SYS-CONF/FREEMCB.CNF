@@ -63,40 +63,40 @@ OSDSYS_Skip_MC = 1
 OSDSYS_Skip_HDD = 1
 
 
-name_OSDSYS_ITEM_1 = Open PS2 Loader
-path1_OSDSYS_ITEM_1 = mc?:/APPS/OPNPS2LD.ELF
+name_OSDSYS_ITEM_1 = Launch disc
+path1_OSDSYS_ITEM_1 = FASTBOOT
 
 
-name_OSDSYS_ITEM_2 = wLaunchELF ISR
-path1_OSDSYS_ITEM_2 = mc?:/APPS/ULE/WLAUNCHELF_ISR.ELF
+name_OSDSYS_ITEM_2 = Open PS2 Loader
+path1_OSDSYS_ITEM_2 = mc?:/APPS/OPNPS2LD.ELF
 
 
-name_OSDSYS_ITEM_3 = wLaunchELF ISR HDD
-path1_OSDSYS_ITEM_3 = mc?:/APPS/ULE/WLAUNCHELF_ISR_HDD.ELF
+name_OSDSYS_ITEM_3 = POPSLoader
+path1_OSDSYS_ITEM_3 = mc?:/APPS/POPSLOADER.ELF
 
 
-name_OSDSYS_ITEM_4 = POPSLoader
-path1_OSDSYS_ITEM_4 = mc?:/APPS/POPSLOADER.ELF
+name_OSDSYS_ITEM_4 = wLaunchELF ISR
+path1_OSDSYS_ITEM_4 = mc?:/APPS/ULE/WLAUNCHELF_ISR.ELF
 
 
-name_OSDSYS_ITEM_5 = Simple Media System
-path1_OSDSYS_ITEM_5 = mc?:/APPS/SMS.ELF
+name_OSDSYS_ITEM_5 = wLaunchELF ISR HDD
+path1_OSDSYS_ITEM_5 = mc?:/APPS/ULE/WLAUNCHELF_ISR_HDD.ELF
 
 
-name_OSDSYS_ITEM_6 = Memory Card Annihilator
-path1_OSDSYS_ITEM_6 = mc?:/APPS/MCA/MCA.ELF
+name_OSDSYS_ITEM_6 = Simple Media System
+path1_OSDSYS_ITEM_6 = mc?:/APPS/SMS.ELF
 
 
-name_OSDSYS_ITEM_7 = BiosDrain
-path1_OSDSYS_ITEM_7 = mc?:/APPS/BIOSDRAIN.ELF
+name_OSDSYS_ITEM_7 = Memory Card Annihilator
+path1_OSDSYS_ITEM_7 = mc?:/APPS/MCA/MCA.ELF
 
 
-name_OSDSYS_ITEM_93 = KELFBinder
-path1_OSDSYS_ITEM_93 = mass:/APPS/KELFBinder/KELFBinder.elf
+name_OSDSYS_ITEM_8 = BiosDrain
+path1_OSDSYS_ITEM_8 = mc?:/APPS/BIOSDRAIN.ELF
 
 
-name_OSDSYS_ITEM_94 = Launch disc
-path1_OSDSYS_ITEM_94 = FASTBOOT
+name_OSDSYS_ITEM_9 = KELFBinder
+path1_OSDSYS_ITEM_9 = mass:/APPS/KELFBinder/KELFBinder.elf
 
 
 name_OSDSYS_ITEM_95 = ESR DVD Direct
