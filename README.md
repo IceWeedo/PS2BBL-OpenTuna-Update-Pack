@@ -53,5 +53,8 @@ Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of 
 
 ## PlayStation
 
+Copy **".VCD"** in **"mass:/POPS/"**
 
 ## PlayStation 2
+
+Copy **".ISO"** in **"mass:/DVD/"**
