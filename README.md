@@ -22,6 +22,7 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 ## - Add-on
 
   * [FreeMCBoot 1.966 ISR exFAT](https://github.com/israpps/FreeMcBoot-Installer)
+  * [wLaunchELF 4.43x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
 
 # Content Full
 
