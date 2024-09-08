@@ -13,6 +13,16 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
 
   * Tested on 128MB Memory Card No MagicGate
 
+# Content Minimal
+
+## - Update
+
+  * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 **>** [Open PS2 Loader 1.2.0 Beta 2119 d47912c - Multilingual](https://github.com/ps2homebrew/Open-PS2-Loader)
+    
+## - Add-on
+
+  * [FreeMCBoot 1.966 ISR exFAT](https://github.com/israpps/FreeMcBoot-Installer)
+
 # Content Full
 
 ## - Update
