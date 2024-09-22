@@ -24,13 +24,13 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * [FreeMCBoot 1.966 ISR exFAT](https://github.com/israpps/FreeMcBoot-Installer)
   * [wLaunchELF 4.43x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
 
-# Content Full
+## Content Full
 
-## - Update
+### - Update
 
   * Open PS2 Loader 1.2.0 Bêta 2016 0aa246 **>** [Open PS2 Loader 1.2.0 Beta 2119 d47912c - Multilingual](https://github.com/ps2homebrew/Open-PS2-Loader)
     
-## - Add-on
+### - Add-on
 
   * [FreeMCBoot 1.966 ISR exFAT](https://github.com/israpps/FreeMcBoot-Installer)
   * [wLaunchELF 4.43x ISR exFAT](https://github.com/israpps/wLaunchELF_ISR)
@@ -43,9 +43,9 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * [KELFBinder 1.1.1](https://github.com/israpps/KELFBinder)
   * [ESR Beta r9b](https://www.psx-place.com/threads/esr-by-ffgriever.19136/)
     
-## - Config
+### - Config
 
-### POPStarter
+#### POPStarter
 
   * **CHEATS.TXT**
     * $SAFEMODE
@@ -56,16 +56,16 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
   * **VMCDIR.TXT**
     * Use virtual memory card **SLOT0.VMC** and **SLOT1.VMC** for all games in folder **"mass:/POPS/VMC/"**
    
-# Install
+## Install
 
 Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israpps/PlayStation2-Basic-BootLoader)
 
-# Add Games
+## Add Games
 
-## - PlayStation
+### - PlayStation
 
 Copy **".VCD"** in **"mass:/POPS/"**
 
-##  - PlayStation 2
+###  - PlayStation 2
 
 Copy **".ISO"** in **"mass:/DVD/"**
