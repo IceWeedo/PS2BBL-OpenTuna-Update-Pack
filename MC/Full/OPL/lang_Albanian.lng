@@ -281,18 +281,18 @@ Lojërat USB
 Lojërat iLink
 Lojërat MX4SIO
 Configure PADMACRO
-Pad macro Settings
+Pad Macro Settings
 Pad macros
-Analog slow-down:
-Reduce range of analog stick when button is pressed
-Left stick
-Right stick
-Analog axis invert:
-Invert analog stick axis
-Turbo button speed
-How fast to press the button when turbo is active
-While button pressed
-Toggled by button
+Analog Slow-Down:
+Reduce the range of analog stick when button is pressed.
+Left Stick
+Right Stick
+Analog Axis Invert:
+Inverts the axis of selected analog stick.
+Turbo Button Speed
+How fast the button is pressed when turbo is active.
+While Button Pressed
+Toggled By Button
 JAPANESE
 ENGLISH
 FRENCH
