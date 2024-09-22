@@ -55,8 +55,9 @@ Basic update pack for [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israp
  
   * **VMCDIR.TXT**
     * Use virtual memory card **SLOT0.VMC** and **SLOT1.VMC** for all games in folder **"mass:/POPS/VMC/"**
+    * 
    
-## Install
+# Install
 
 Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of [PS2BBL OpenTuna Installer 1.2.0](https://github.com/israpps/PlayStation2-Basic-BootLoader)
 
